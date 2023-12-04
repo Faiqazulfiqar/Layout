@@ -1,0 +1,16 @@
+* {
+    background-color:gray;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  nav{
+    width: 100px;
+    height: 75px;
+    line-height: 75px;
+    padding: 0px 100px;
+    position: fixed;
+    background-image: black;
+
+  }
